@@ -4,7 +4,7 @@ Run a reverse proxy using nginx on Heroku.
 
 # Dont Clone This.. Doesn't work Anymore... There are other solutions now
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/shantanu561993/heroku-reverse-proxy)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/crypt0b0y/heroku-reverse-proxy)
 
 ## Installation
 
@@ -12,4 +12,4 @@ Use the [Deploy to Heroku](https://heroku.com/deploy) button above to create a c
 
 ## Credits
 
-Based on [api-proxy-3scale-heroku](https://github.com/Taytay/api-proxy-3scale-heroku).
+Based on [api-proxy-3scale-heroku](https://github.com/crypt0b0y/heroku-reverse-proxy).
